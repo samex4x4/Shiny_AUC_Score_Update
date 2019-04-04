@@ -5,7 +5,6 @@ library(data.table)
 library(googlesheets)
 source('config.R')
 
-
 ## google Sheet name
 table='rank'
 ## google token
